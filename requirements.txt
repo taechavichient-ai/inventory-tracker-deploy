@@ -1,0 +1,6 @@
+flask
+pandas
+openpyxl
+xlrd
+gunicorn
+google-cloud-storage
